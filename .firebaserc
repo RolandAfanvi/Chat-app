@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "next-chat-app-c8cf6",
+    "chat-app": "next-chat-app-c8cf6"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
